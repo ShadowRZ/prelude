@@ -9,4 +9,5 @@
            (super-save-mode nil super-save)
            (prelude-mode)
            (which-key-mode nil which-key)
+           (org-indent-mode nil org-indent)
            (beacon-mode nil beacon)))
